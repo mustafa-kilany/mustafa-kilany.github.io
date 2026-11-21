@@ -12,7 +12,7 @@ window.PORTFOLIO = {
   tagline: "I build mobile apps, APIs and automations, and I keep the systems they run on secure.",
   about: [
     "I work at EY in the Tax Service Line (Global Compliance & Reporting), where I bring IT and tax together. I write Python, VBA and Excel automations that turn very large volumes of financial and regulatory documents into structured, decision-ready data. I was named an AI Champion for MENA and placed Top 4 in the EY Tax Hackathon for MENA.",
-    "Alongside EY I'm building Madmoon Deals end to end: the React Native app, the Express and PostgreSQL API, and the admin dashboard. Before that I ran IT for a medical center, administering Windows Server and the network, and built data-heavy backends at a software company, so I'm comfortable on both the infrastructure and the application side.",
+    "Alongside EY I'm building Madmoon Deals end to end: the React Native app, the Express and PostgreSQL API, and the admin dashboard. Before that I was an IT Officer at a medical center, administering Windows Server and the network, and built data-heavy backends at a software company, so I'm comfortable on both the infrastructure and the application side.",
     "I graduated in 2025 with a B.Sc. in Computer Science from Al Hussein Technical University (HTU), and I'm currently studying for the Chartered Institute of Taxation's Diploma in Tax Technology (DITT)."
   ],
   stats: [
@@ -71,7 +71,7 @@ window.PORTFOLIO = {
       ]
     },
     {
-      role: "Head of IT",
+      role: "IT Officer",
       org: "Sharif Eye Center",
       period: "Sep 2025 – Dec 2025",
       type: "IT · Web",
@@ -175,7 +175,7 @@ window.PORTFOLIO = {
       highlights: [
         "Real-time camera try-on in the browser",
         "Product catalogue, performance and UX optimization",
-        "Built and maintained while also running the clinic's IT"
+        "Built and maintained alongside my IT Officer role at the clinic"
       ],
       stack: ["JavaScript", "Web", "Computer Vision", "E-commerce"],
       link: ""
